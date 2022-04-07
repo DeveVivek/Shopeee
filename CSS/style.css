@@ -687,10 +687,10 @@ footer .copyright {
     }
 
     #feature .fe-box {
-        width: 155px;
+        width: 140px;
         margin: 0 0 15px 0;
+        padding:10px 0;
     }
-
     #product1 .pro {
         width: 100%;
     }
