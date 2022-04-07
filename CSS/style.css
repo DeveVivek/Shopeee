@@ -687,9 +687,12 @@ footer .copyright {
     }
 
     #feature .fe-box {
-        width: 140px;
+        width: 120px;
         margin: 0 0 15px 0;
-        padding:10px 0;
+        padding:20px 0;
+    }
+    #feature .fe-box img{
+        height: 75px;
     }
     #product1 .pro {
         width: 100%;
